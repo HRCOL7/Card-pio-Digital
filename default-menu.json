@@ -1,0 +1,1127 @@
+{
+  "tag": "Cozinha de raiz · Aracaju",
+  "cats": [
+    {
+      "id": "c1",
+      "name": "Entradas",
+      "items": [
+        {
+          "id": "i1",
+          "n": "Bolinho de Macaxeira",
+          "d": "Macaxeira crocante recheada com carne de sol e queijo coalho, servida com geleia de pimenta.",
+          "p": 38,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "i2",
+          "n": "Tábua Tupi Vegana",
+          "d": "Pastas de castanha, patê de jerimum, chips de banana-da-terra e pães artesanais.",
+          "p": 46,
+          "img": "",
+          "v": true,
+          "off": false
+        },
+        {
+          "id": "pdf-kuruba-acayu",
+          "n": "Kurubá Acayú",
+          "d": "Homus de castanha com tahine, cogumelos, azeitona preta e tomate salteados no azeite e ervas, finalizado com azeite de ervas e servido com massinha crocante.",
+          "p": 45,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-acaju-gyoza",
+          "n": "Acaju",
+          "d": "6 gyozas de legumes com nirá fritos, acompanhados de molho de cupuaçu e pimenta-biquinho.",
+          "p": 33,
+          "img": "",
+          "v": true,
+          "off": false
+        },
+        {
+          "id": "pdf-ybi",
+          "n": "Ybi",
+          "d": "Quesadilla na tortilla de cacau e trigo recheada com queijo vegano de castanhas, tomate e berinjela assada com manjericão. Servida com ketchup da casa e especiarias.",
+          "p": 31,
+          "img": "",
+          "v": true,
+          "off": false
+        },
+        {
+          "id": "pdf-apo",
+          "n": "Apó",
+          "d": "Batata frita temperada com homus de castanha. Pode solicitar maionese de bacon no lugar do homus.",
+          "p": 25,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-pao-alho-tupi",
+          "n": "Pão de Alho Tupi",
+          "d": "Mini baguete australiana com pasta de alho, queijo coalho e melaço levemente apimentado.",
+          "p": 18,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-caldo-iguape",
+          "n": "Caldo Iguape",
+          "d": "Caldo de mariscada na base de macaxeira, com peixe, sururu, caranguejo e camarão no leite de coco e toque de gengibre.",
+          "p": 22,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-caldo-karioka",
+          "n": "Caldo ao Karioka",
+          "d": "Caldo de macaxeira com carne de panela e agrião, guarnecido com queijo coalho tostado.",
+          "p": 19,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-apo-lokinha",
+          "n": "Apó Lokinha",
+          "d": "Batata rústica com creme de queijo, carne de panela e seu molho, finalizada com mousse de queijo e melaço levemente picante.",
+          "p": 41,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-copii",
+          "n": "Copi'i",
+          "d": "Cupim assado ao molho de queijo muçarela e gorgonzola, servido com massinha de pastel frita.",
+          "p": 53,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-croquete-costela",
+          "n": "Croquete de Costela",
+          "d": "4 croquetes de costela bovina recheados com queijo coalho, servidos com aioli de cogumelos e missô e finalizados com queijo curado.",
+          "p": 36,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-tybira-poti",
+          "n": "Tybira Poti",
+          "d": "Dupla de pastéis empanados na farinha de coco, recheados com camarão na moranga e acompanhados de compota de manga com tucupi.",
+          "p": 34,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-acajuyba",
+          "n": "Acajuýba",
+          "d": "6 gyozas de costelinha suína fritas, cobertas com melaço e molho levemente picante de cupuaçu com pimenta-biquinho.",
+          "p": 39,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-pira-apua",
+          "n": "Pirá-Apuã",
+          "d": "Tartar de atum com melaço de açaí e raspas de limão, acompanhado de camarão crocante na farinha de coco, mousse de queijo e massinhas fritas com alga nori.",
+          "p": 49,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-akayu-poti",
+          "n": "Aka'yu Poti",
+          "d": "Camarão salteado ao alho, tomate, azeite defumado e azeitona, sobre homus de castanha de caju com tahine, servido com pão de trigo e cacau.",
+          "p": 55,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-mayra-sertanejo",
+          "n": "Mayrá Sertanejo",
+          "d": "Quesadilla na tortilla de cacau e trigo com charque na manteiga de garrafa, banana, mix de queijos com gorgonzola, salsa e aioli defumado.",
+          "p": 38,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-tome-acu",
+          "n": "Tomé-Açu",
+          "d": "Dupla de onigiri com arroz e gergelim torrado, recheados com salmão ao limão, cream cheese e manteiga de garrafa, acompanhados de molho de açaí picante.",
+          "p": 39,
+          "img": "",
+          "v": false,
+          "off": false
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "name": "Pratos Principais",
+      "items": [
+        {
+          "id": "i3",
+          "n": "Moqueca de Peixe",
+          "d": "Peixe fresco do dia no leite de coco e dendê, com arroz, pirão e farofa de banana.",
+          "p": 89,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "i4",
+          "n": "Moqueca de Palmito",
+          "d": "Palmito pupunha, legumes e leite de coco na panela de barro. Acompanha arroz e farofa.",
+          "p": 72,
+          "img": "",
+          "v": true,
+          "off": false
+        },
+        {
+          "id": "i5",
+          "n": "Baião Cremoso",
+          "d": "Baião de dois com queijo coalho maçaricado, manteiga de garrafa e couve crocante.",
+          "p": 64,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-caicara-curry",
+          "n": "Caiçara Curry",
+          "d": "Arroz caldoso de curry, castanha e coco, com banana-da-terra assada e laqueada com maracujá no melaço e salada de couve no limão.",
+          "p": 61,
+          "img": "",
+          "v": true,
+          "off": false
+        },
+        {
+          "id": "pdf-nhoque-shitake",
+          "n": "Nhoque ao Shitake",
+          "d": "Nhoque de espinafre vegano, béchamel de castanha, cogumelos e brócolis, finalizado com azeite de ervas.",
+          "p": 66,
+          "img": "",
+          "v": true,
+          "off": false
+        },
+        {
+          "id": "pdf-cacarola-alagoana",
+          "n": "Caçarola Alagoana",
+          "d": "Caçarola de camarão ao molho de queijo com vinho branco, arroz de alho e salsa e crispy de banana-da-terra.",
+          "p": 75,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-salmao-akaiu",
+          "n": "Salmão Akaíú",
+          "d": "Salmão laqueado com maracujá sobre legumes salteados no gergelim e creme de castanha assada.",
+          "p": 78,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-tilapia-pacova",
+          "n": "Tilápia Pacová",
+          "d": "Tilápia crocante com risoto de banana-da-terra, molho de coco e tucupi.",
+          "p": 68,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-rigatoni-mangue",
+          "n": "Rigatoni do Mangue",
+          "d": "Rigatoni ao molho de sururu, aratu e camarão com tomate e leite de coco, finalizado com pangrattato de azeitonas pretas e cheiro-verde.",
+          "p": 65,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-ravioli-moqueto",
+          "n": "Ravioli Moqueto",
+          "d": "Ravioli de abóbora ao molho de charque na nata com azeitonas pretas, gratinado com queijo curado e raspas de limão.",
+          "p": 69,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-file-caju",
+          "n": "Filé ao Caju",
+          "d": "Filé bovino 150 g em crosta de castanha de caju, acompanhado de ravioli de gorgonzola ao molho de queijo.",
+          "p": 75,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-costela-funghi",
+          "n": "Costela e Funghi",
+          "d": "Risoto de cogumelos acompanhado de costela assada no bafo ao molho roti com melaço.",
+          "p": 79,
+          "img": "",
+          "v": false,
+          "off": false
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "name": "Hambúrgueres",
+      "items": [
+        {
+          "id": "i6",
+          "n": "Tupi Burger",
+          "d": "Blend 180g, queijo coalho, cebola caramelizada e maionese da casa no pão de brioche.",
+          "p": 42,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "i7",
+          "n": "Burger da Terra",
+          "d": "Hambúrguer de grão-de-bico e cogumelos, rúcula e molho de ervas.",
+          "p": 39,
+          "img": "",
+          "v": true,
+          "off": false
+        },
+        {
+          "id": "pdf-curumim",
+          "n": "Curumim",
+          "d": "Pão brioche, maionese de bacon, hambúrguer bovino 150 g e queijo prato.",
+          "p": 31,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-tupi-burger",
+          "n": "Tupi",
+          "d": "Pão brioche, hambúrguer bovino 150 g, creme cheddar, bacon crocante, cebolas confit e salsa criolla.",
+          "p": 39,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-duplo-tupi",
+          "n": "Duplo Tupi",
+          "d": "Pão brioche, 2 hambúrgueres bovinos de 150 g, cheddar, bacon crocante, cebolas confit e salsa criolla.",
+          "p": 48,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-paje-tiby",
+          "n": "Pajé Tiby",
+          "d": "Pão brioche, hambúrguer bovino 200 g, cebola confit, salada, bacon no melaço e mix de queijos da casa.",
+          "p": 46,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-burguer-poti",
+          "n": "Burguér Poti",
+          "d": "Pão brioche, hambúrguer bovino 150 g e queijo prato, coberto com camarão flambado ao molho de queijo e páprica.",
+          "p": 44,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-buiagiu",
+          "n": "Buiagiu",
+          "d": "Pão brioche, hambúrguer bovino 200 g sobre compota de bacon, cebola e melaço, gorgonzola, cebola frita, alface e tomate.",
+          "p": 40,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-low-burguer",
+          "n": "Low Burguer (sem pão)",
+          "d": "Blend bovino 150 g com salada mix da casa, legumes grelhados, lascas de queijo e molho de mostarda. Pode substituir o blend bovino por frango.",
+          "p": 33,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-grao-burguer",
+          "n": "Grão Burguer",
+          "d": "Pão no azeite, polpetone de mix de feijões ou falafel, ketchup, pasta de azeitona preta, alface, cebola e tomate.",
+          "p": 31,
+          "img": "",
+          "v": true,
+          "off": false
+        },
+        {
+          "id": "pdf-acara",
+          "n": "Acará",
+          "d": "Pão brioche, filé de frango empanado, queijo prato, salada de alface, tomate e cebola ao molho Golf.",
+          "p": 32,
+          "img": "",
+          "v": false,
+          "off": false
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "name": "Sucos e Drinks",
+      "items": [
+        {
+          "id": "i8",
+          "n": "Suco Natural",
+          "d": "Cajá, caju, maracujá ou graviola. Consulte a disponibilidade do dia.",
+          "p": 14,
+          "img": "",
+          "v": true,
+          "off": false
+        },
+        {
+          "id": "i9",
+          "n": "Caipirinha Tupi",
+          "d": "Cachaça artesanal, limão e um toque de capim-santo.",
+          "p": 24,
+          "img": "",
+          "v": true,
+          "off": false
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "name": "Grelhados e Assados",
+      "items": [
+        {
+          "id": "pdf-costela-assada",
+          "n": "Costela Assada",
+          "d": "Famosa costela assada em forno lento e baixa temperatura. Individual: R$ 73,00. Para compartilhar: R$ 142,00.",
+          "p": 73,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-cupim-reino",
+          "n": "Cupim do Reino",
+          "d": "Cupim assado por 5 horas com ervas e alho, coberto com molho de queijo do reino. Individual: R$ 74,00. Para compartilhar: R$ 144,00.",
+          "p": 74,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-file-parmegiano",
+          "n": "Filé Parmegiano à Moda da Casa",
+          "d": "Filé empanado ao molho pomodoro e mix de queijos. Individual: R$ 70,00. Para compartilhar: R$ 135,00.",
+          "p": 70,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-file-osvaldo",
+          "n": "Filé Osvaldo",
+          "d": "Filé alto com flocos de alho. Individual: R$ 74,00. Para compartilhar: R$ 146,00.",
+          "p": 74,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-ancho-tupi",
+          "n": "Ancho Steak ao Tupi",
+          "d": "Ancho coberto com mix de queijo. Individual: R$ 70,00. Para compartilhar: R$ 136,00.",
+          "p": 70,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-picanha-manteiga",
+          "n": "Picanha na Manteiga",
+          "d": "Picanha com manteiga de ervas e alho. Individual: R$ 74,00. Para compartilhar: R$ 155,00.",
+          "p": 74,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-frango-queijo",
+          "n": "Frango e Queijo",
+          "d": "Frango empanado ao molho de parmesão e limão. Individual: R$ 59,00. Para compartilhar: R$ 118,00.",
+          "p": 59,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-file-peixe-mariscos",
+          "n": "Filé de Peixe com Molho de Mariscos",
+          "d": "Filé de peixe grelhado com molho de mariscos (aratu, camarão e sururu) no coco. Individual: R$ 66,00. Para compartilhar: R$ 135,00.",
+          "p": 66,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-salmao-pesto",
+          "n": "Salmão ao Pesto",
+          "d": "Salmão grelhado servido com pesto de manjericão. Individual: R$ 78,00. Para compartilhar: R$ 156,00.",
+          "p": 78,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-camarao-banana",
+          "n": "Camarão Flambado com Banana-da-Terra",
+          "d": "Camarão flambado com tomate e banana-da-terra, com toque de limão. Individual: R$ 76,00. Para compartilhar: R$ 156,00.",
+          "p": 76,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-polpetone-vegano",
+          "n": "Polpetone Vegano",
+          "d": "Polpetone de falafel e/ou feijão-preto ao molho de castanha com toque de alho. Individual: R$ 54,00. Para compartilhar: R$ 107,00.",
+          "p": 54,
+          "img": "",
+          "v": true,
+          "off": false
+        }
+      ]
+    },
+    {
+      "id": "c6",
+      "name": "Acompanhamentos",
+      "items": [
+        {
+          "id": "pdf-arroz-farofa",
+          "n": "Arroz Branco com Farofa",
+          "d": "Arroz branco com farofa na manteiga da casa.",
+          "p": 15,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-arroz-brocolis",
+          "n": "Arroz com Brócolis e Alho",
+          "d": "Arroz com brócolis e alho.",
+          "p": 16,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-arroz-cremoso",
+          "n": "Arroz Cremoso com Queijo do Reino",
+          "d": "Arroz cremoso com queijo do reino.",
+          "p": 21,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-risoto-tomate",
+          "n": "Risoto de Tomate Assado",
+          "d": "Risoto de tomate assado.",
+          "p": 30,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-linguini-tomate",
+          "n": "Linguini ao Molho de Tomate Assado",
+          "d": "Linguini ao molho de tomate assado.",
+          "p": 23,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-nhoque-queijo",
+          "n": "Nhoque ao Queijo Coalho e Parmesão",
+          "d": "Nhoque ao molho de queijo coalho e parmesão.",
+          "p": 20,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-mix-casa",
+          "n": "Mix da Casa",
+          "d": "Alface, tomate, cebola confit, queijo ricota, molho de mostarda e melaço e grão-de-bico. Sem queijo, conforme o cardápio.",
+          "p": 22,
+          "img": "",
+          "v": true,
+          "off": false
+        },
+        {
+          "id": "pdf-brule-macaxeira",
+          "n": "Brulê de Macaxeira",
+          "d": "Brulê de macaxeira com queijo coalho.",
+          "p": 25,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-batatas-recheadas",
+          "n": "Batatas Recheadas",
+          "d": "Batatas recheadas com queijo e bacon.",
+          "p": 19,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-baiao-acomp",
+          "n": "Baião de Dois",
+          "d": "Arroz, feijão-preto, calabresa, bacon e queijo coalho.",
+          "p": 18,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-batata-frita",
+          "n": "Batata Frita Temperada",
+          "d": "Batata frita temperada.",
+          "p": 21,
+          "img": "",
+          "v": true,
+          "off": false
+        },
+        {
+          "id": "pdf-macaxeira-frita",
+          "n": "Macaxeira Frita",
+          "d": "Macaxeira frita com parmesão e melaço picante.",
+          "p": 21,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-feijao-carioca",
+          "n": "Feijão Carioca com Legumes",
+          "d": "Feijão carioca com legumes do dia.",
+          "p": 18,
+          "img": "",
+          "v": true,
+          "off": false
+        }
+      ]
+    },
+    {
+      "id": "c7",
+      "name": "Sobremesas",
+      "items": [
+        {
+          "id": "pdf-sonhar",
+          "n": "Sonhar",
+          "d": "Sonhos feitos na hora, recheados com doce de leite e raspas de limão.",
+          "p": 19,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-cacoa-apua",
+          "n": "Cacôa Apuã",
+          "d": "Bolinho quente de brigadeiro com toque de café, servido com sorvete de castanha e nuts de castanha.",
+          "p": 27,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-jabutica",
+          "n": "Jabuti'ca",
+          "d": "Sorvete de jabuticaba com banana caramelizada na cachaça e pastelzinho de paçoca.",
+          "p": 29,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-uba",
+          "n": "Ubá",
+          "d": "Cocada cremosa brulê com sorvete de castanha, raspas de limão e coco tostado.",
+          "p": 23,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-mousse-limao-uva",
+          "n": "Mousse de Limão e Uva",
+          "d": "Mousse de limão com cream cheese, uvas verdes e farofinha de biscoito.",
+          "p": 19,
+          "img": "",
+          "v": false,
+          "off": false
+        }
+      ]
+    },
+    {
+      "id": "c8",
+      "name": "Drinks",
+      "items": [
+        {
+          "id": "pdf-caipirinha-envelhecida",
+          "n": "Caipirinha Envelhecida de Fruta",
+          "d": "Caipirinha com cachaça envelhecida e fruta à escolha.",
+          "p": 26,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-caipirinha-fruta",
+          "n": "Caipirinha de Fruta",
+          "d": "Escolha entre maracujá, limão-siciliano, morango, amora, laranja-baía, limão ou abacaxi. Duas frutas: adicional de R$ 2,00.",
+          "p": 24,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-caipiroska-nacional",
+          "n": "Caipiroska de Fruta Nacional",
+          "d": "Vodka nacional e fruta à escolha. Duas frutas: adicional de R$ 2,00.",
+          "p": 26,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-caipiroska-importada",
+          "n": "Caipiroska de Fruta Importada",
+          "d": "Vodka importada e fruta à escolha. Duas frutas: adicional de R$ 2,00.",
+          "p": 28,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-rabo-galo",
+          "n": "Rabo de Galo Defumado",
+          "d": "Cachaça envelhecida, vermute, Cynar e defumação com anis-estrelado.",
+          "p": 25,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-zaya",
+          "n": "Zaya",
+          "d": "Cachaça envelhecida com cumaru da Amazônia, abacaxi, xarope de manjericão e toque de leite de coco.",
+          "p": 29,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-tupinamba",
+          "n": "Tupinambá",
+          "d": "Cachaça jovem, compota de caju com laranja e triple sec de laranja.",
+          "p": 25,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-mojito",
+          "n": "Mojito",
+          "d": "Rum, hortelã, limão e xarope de açúcar.",
+          "p": 27,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-mojito-tupi",
+          "n": "Mojito Tupi",
+          "d": "Rum, gengibre, abacaxi, hortelã e xarope de açúcar.",
+          "p": 28,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-sabia",
+          "n": "Sabiá",
+          "d": "Gin, suco de laranja, limão-siciliano e Aperol.",
+          "p": 26,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-negroni",
+          "n": "Negroni",
+          "d": "Campari, vermute, gin, bitter e zest de laranja.",
+          "p": 30,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-oca-gin",
+          "n": "Oca Gin",
+          "d": "Licor cítrico, limão, gin, tônica e espuma de gengibre.",
+          "p": 28,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-yba",
+          "n": "Ybá",
+          "d": "Vodka, maracujá, hortelã, rapadura e pimenta-rosa.",
+          "p": 27,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-cupuacu",
+          "n": "Cupuaçu",
+          "d": "Vodka, cupuaçu, gengibre, limão e xarope infusionado.",
+          "p": 26,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-urutinga",
+          "n": "Urutinga",
+          "d": "Vodka, xarope de maçã-verde, limão e bitter, finalizada com sal e pimenta.",
+          "p": 26,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-mangoo",
+          "n": "Mangoo",
+          "d": "Tequila infusionada com manga, xarope de hortelã e pimenta.",
+          "p": 28,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-aperol-spritz",
+          "n": "Aperol Spritz",
+          "d": "Aperol, espumante, limão e laranja.",
+          "p": 29,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-spritz-tupi",
+          "n": "Spritz Tupi na Jarra",
+          "d": "Vinho branco, Aperol, gim frisante e frutas da estação e cítricas. Para dividir.",
+          "p": 64,
+          "img": "",
+          "v": false,
+          "off": false
+        }
+      ]
+    },
+    {
+      "id": "c9",
+      "name": "Chopes Locais",
+      "items": [
+        {
+          "id": "pdf-chope-terres",
+          "n": "Chope Terres IPA",
+          "d": "6% de álcool, 60 IBU. 300 ml: R$ 16,00; 400 ml: R$ 19,00.",
+          "p": 16,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-chope-uca",
+          "n": "Chope Uça Pilsen",
+          "d": "5% de álcool, 11 IBU. 300 ml: R$ 14,00; 400 ml: R$ 17,00.",
+          "p": 14,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-chope-presepada",
+          "n": "Chope Presepada APA",
+          "d": "5% de álcool, 11 IBU. 300 ml: R$ 13,00; 400 ml: R$ 16,00.",
+          "p": 13,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-chope-arre-egua",
+          "n": "Chope Arre Égua IPA",
+          "d": "7,1% de álcool, 58 IBU. 300 ml: R$ 18,00; 400 ml: R$ 22,00.",
+          "p": 18,
+          "img": "",
+          "v": false,
+          "off": false
+        }
+      ]
+    },
+    {
+      "id": "c10",
+      "name": "Sucos e Bebidas",
+      "items": [
+        {
+          "id": "pdf-suco-1-fruta",
+          "n": "Suco de Fruta (1 fruta)",
+          "d": "400 ml. Escolha maracujá, morango, amora, cupuaçu, graviola, laranja, limão ou abacaxi.",
+          "p": 15,
+          "img": "",
+          "v": true,
+          "off": false
+        },
+        {
+          "id": "pdf-suco-2-frutas",
+          "n": "Suco de Fruta (2 frutas)",
+          "d": "400 ml. Escolha entre maracujá, morango, amora, cupuaçu, graviola, laranja, limão ou abacaxi.",
+          "p": 17,
+          "img": "",
+          "v": true,
+          "off": false
+        },
+        {
+          "id": "pdf-beira-rio",
+          "n": "Beira Rio",
+          "d": "Água de coco batida com amora e gengibre, 400 ml.",
+          "p": 17,
+          "img": "",
+          "v": true,
+          "off": false
+        },
+        {
+          "id": "pdf-beira-mar",
+          "n": "Beira Mar",
+          "d": "Água de coco batida com morango e sumo de limão, 400 ml.",
+          "p": 17,
+          "img": "",
+          "v": true,
+          "off": false
+        },
+        {
+          "id": "pdf-amazon",
+          "n": "Amazon",
+          "d": "Açaí batido com água de coco e morango, 400 ml.",
+          "p": 18,
+          "img": "",
+          "v": true,
+          "off": false
+        },
+        {
+          "id": "pdf-sementeira",
+          "n": "Sementeira",
+          "d": "Suco detox verde de laranja, limão, abacaxi, couve, hortelã e gengibre.",
+          "p": 17,
+          "img": "",
+          "v": true,
+          "off": false
+        },
+        {
+          "id": "pdf-cha-tupi",
+          "n": "Chá do Tupi",
+          "d": "Chá de hibisco, camomila e outras ervas batido com limão e toque de laranja.",
+          "p": 15,
+          "img": "",
+          "v": true,
+          "off": false
+        },
+        {
+          "id": "pdf-agua-coco",
+          "n": "Água de Coco",
+          "d": "Água de coco.",
+          "p": 15,
+          "img": "",
+          "v": true,
+          "off": false
+        },
+        {
+          "id": "pdf-soda-italiana",
+          "n": "Soda Italiana",
+          "d": "Sabores: frutas vermelhas, maçã-verde, manga ou hibisco com gengibre.",
+          "p": 14,
+          "img": "",
+          "v": true,
+          "off": false
+        },
+        {
+          "id": "pdf-refrigerante",
+          "n": "Refrigerante",
+          "d": "Coca-Cola, Coca-Cola Zero, Guaraná Antarctica, Fanta, Schweppes Citrus ou tônica.",
+          "p": 10,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-h2o",
+          "n": "H2OH!",
+          "d": "Bebida H2OH!.",
+          "p": 10,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-agua-mineral",
+          "n": "Água Mineral",
+          "d": "Água mineral sem gás.",
+          "p": 8,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-agua-gas",
+          "n": "Água Mineral com Gás",
+          "d": "Água mineral com gás.",
+          "p": 9,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-sumo-limao",
+          "n": "Sumo de Limão",
+          "d": "Porção de 50 ml.",
+          "p": 3,
+          "img": "",
+          "v": true,
+          "off": false
+        },
+        {
+          "id": "pdf-heineken",
+          "n": "Heineken 550/600 ml",
+          "d": "Cerveja.",
+          "p": 23,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-budweiser",
+          "n": "Budweiser 550/600 ml",
+          "d": "Cerveja.",
+          "p": 19,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-stella",
+          "n": "Stella Artois 550/600 ml",
+          "d": "Cerveja.",
+          "p": 20,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-amstel",
+          "n": "Amstel 550/600 ml",
+          "d": "Cerveja.",
+          "p": 20,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-corona",
+          "n": "Corona Long Neck",
+          "d": "Cerveja long neck.",
+          "p": 15,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-pure-gold",
+          "n": "Pure Gold Long Neck",
+          "d": "Cerveja long neck.",
+          "p": 15,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-baden-baden",
+          "n": "Baden-Baden Long Neck",
+          "d": "Cerveja long neck.",
+          "p": 27,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-heineken-zero",
+          "n": "Heineken sem Álcool",
+          "d": "Cerveja long neck sem álcool.",
+          "p": 15,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-budweiser-zero",
+          "n": "Budweiser sem Álcool",
+          "d": "Cerveja long neck sem álcool.",
+          "p": 12,
+          "img": "",
+          "v": false,
+          "off": false
+        },
+        {
+          "id": "pdf-stella-zero",
+          "n": "Stella Artois sem Álcool",
+          "d": "Cerveja long neck sem álcool.",
+          "p": 13,
+          "img": "",
+          "v": false,
+          "off": false
+        }
+      ]
+    }
+  ]
+}
