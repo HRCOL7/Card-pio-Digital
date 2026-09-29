@@ -6,24 +6,6 @@
       "name": "Entradas",
       "items": [
         {
-          "id": "i1",
-          "n": "Bolinho de Macaxeira",
-          "d": "Macaxeira crocante recheada com carne de sol e queijo coalho, servida com geleia de pimenta.",
-          "p": 38,
-          "img": "",
-          "v": false,
-          "off": false
-        },
-        {
-          "id": "i2",
-          "n": "Tábua Tupi Vegana",
-          "d": "Pastas de castanha, patê de jerimum, chips de banana-da-terra e pães artesanais.",
-          "p": 46,
-          "img": "",
-          "v": true,
-          "off": false
-        },
-        {
           "id": "pdf-kuruba-acayu",
           "n": "Kurubá Acayú",
           "d": "Homus de castanha com tahine, cogumelos, azeitona preta e tomate salteados no azeite e ervas, finalizado com azeite de ervas e servido com massinha crocante.",
@@ -174,33 +156,6 @@
       "name": "Pratos Principais",
       "items": [
         {
-          "id": "i3",
-          "n": "Moqueca de Peixe",
-          "d": "Peixe fresco do dia no leite de coco e dendê, com arroz, pirão e farofa de banana.",
-          "p": 89,
-          "img": "",
-          "v": false,
-          "off": false
-        },
-        {
-          "id": "i4",
-          "n": "Moqueca de Palmito",
-          "d": "Palmito pupunha, legumes e leite de coco na panela de barro. Acompanha arroz e farofa.",
-          "p": 72,
-          "img": "",
-          "v": true,
-          "off": false
-        },
-        {
-          "id": "i5",
-          "n": "Baião Cremoso",
-          "d": "Baião de dois com queijo coalho maçaricado, manteiga de garrafa e couve crocante.",
-          "p": 64,
-          "img": "",
-          "v": false,
-          "off": false
-        },
-        {
           "id": "pdf-caicara-curry",
           "n": "Caiçara Curry",
           "d": "Arroz caldoso de curry, castanha e coco, com banana-da-terra assada e laqueada com maracujá no melaço e salada de couve no limão.",
@@ -288,24 +243,6 @@
       "name": "Hambúrgueres",
       "items": [
         {
-          "id": "i6",
-          "n": "Tupi Burger",
-          "d": "Blend 180g, queijo coalho, cebola caramelizada e maionese da casa no pão de brioche.",
-          "p": 42,
-          "img": "",
-          "v": false,
-          "off": false
-        },
-        {
-          "id": "i7",
-          "n": "Burger da Terra",
-          "d": "Hambúrguer de grão-de-bico e cogumelos, rúcula e molho de ervas.",
-          "p": 39,
-          "img": "",
-          "v": true,
-          "off": false
-        },
-        {
           "id": "pdf-curumim",
           "n": "Curumim",
           "d": "Pão brioche, maionese de bacon, hambúrguer bovino 150 g e queijo prato.",
@@ -384,30 +321,6 @@
           "p": 32,
           "img": "",
           "v": false,
-          "off": false
-        }
-      ]
-    },
-    {
-      "id": "c4",
-      "name": "Sucos e Drinks",
-      "items": [
-        {
-          "id": "i8",
-          "n": "Suco Natural",
-          "d": "Cajá, caju, maracujá ou graviola. Consulte a disponibilidade do dia.",
-          "p": 14,
-          "img": "",
-          "v": true,
-          "off": false
-        },
-        {
-          "id": "i9",
-          "n": "Caipirinha Tupi",
-          "d": "Cachaça artesanal, limão e um toque de capim-santo.",
-          "p": 24,
-          "img": "",
-          "v": true,
           "off": false
         }
       ]

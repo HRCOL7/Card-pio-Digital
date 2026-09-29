@@ -41,8 +41,9 @@ ${c.items.map((i, ii) => `<div class="ed" data-c="${ci}" data-i="${ii}"><label c
 }
 
 function render() {
+  const scrollPosition = window.scrollY;
   app.innerHTML = admin ? editor() : view();
-  window.scrollTo(0, 0);
+  window.scrollTo(0, scrollPosition);
 }
 
 const find = el => {

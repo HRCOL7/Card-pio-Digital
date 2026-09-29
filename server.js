@@ -135,7 +135,7 @@ const server = http.createServer(async (request, response) => {
         }
 
         if (request.method === 'POST' && url.pathname === '/api/login') {
-            const ip = request.socket.remoteAddress || 'unknown';
+            const ip = (request.headers['x-forwarded-for'] || '').split(',')[0].trim() || request.socket.remoteAddress || 'unknown';
             if (loginRateLimited(ip)) return send(response, 429, { ok: false, error: 'Tente novamente em 15 minutos.' });
 
             const credentials = parseJson(await readBody(request, 2_000));
